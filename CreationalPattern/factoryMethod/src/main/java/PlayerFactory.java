@@ -7,7 +7,7 @@ public class PlayerFactory {
                 player=new Mp3PlayerImpl(path);
                 break;
 
-            case oog:
+            case ogg:
                 player=new OggPlayerImpl(path);
                 break;
             default:throw new IllegalStateException("type not found");

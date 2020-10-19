@@ -1,9 +1,9 @@
 import exception.playerException;
 
 public interface Player {
-    public void play(String path) throws playerException;
+    public void play() throws playerException;
 
     enum Type{
-        mp3,oog
+        mp3,ogg
     }
 }

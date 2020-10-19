@@ -7,7 +7,7 @@ public class OggPlayerImpl implements Player {
     }
 
     @Override
-    public void play(String path) throws playerException {
-
+    public void play() throws playerException {
+        System.out.println("oggplayer");
     }
 }

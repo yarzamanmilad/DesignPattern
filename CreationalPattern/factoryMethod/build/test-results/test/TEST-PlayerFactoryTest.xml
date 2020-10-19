@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PlayerFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T20:54:46" hostname="DESKTOP-CP2JCF8" time="0.007">
+<testsuite name="PlayerFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T21:01:30" hostname="DESKTOP-CP2JCF8" time="0.008">
   <properties/>
-  <testcase name="getPlayer" classname="PlayerFactoryTest" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="getPlayer" classname="PlayerFactoryTest" time="0.008"/>
+  <system-out><![CDATA[mp3player
+oggplayer
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
